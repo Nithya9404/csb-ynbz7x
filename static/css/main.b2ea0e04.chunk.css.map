@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACvB,iBACF,CACA,OACE,2BACF,CACA,YACE,YACF","file":"main.b2ea0e04.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n  text-align: center;\n}\n.Child {\n  font-family: Times New Roman;\n}\n.grand_name {\n  color: bisque;\n}\n"]}

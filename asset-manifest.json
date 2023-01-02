@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nithya9404.github.io/csb-ynbz7x/static/css/main.b2ea0e04.chunk.css",
+    "main.js": "https://nithya9404.github.io/csb-ynbz7x/static/js/main.06dc63f1.chunk.js",
+    "main.js.map": "https://nithya9404.github.io/csb-ynbz7x/static/js/main.06dc63f1.chunk.js.map",
+    "runtime-main.js": "https://nithya9404.github.io/csb-ynbz7x/static/js/runtime-main.edee611a.js",
+    "runtime-main.js.map": "https://nithya9404.github.io/csb-ynbz7x/static/js/runtime-main.edee611a.js.map",
+    "static/js/2.f588b675.chunk.js": "https://nithya9404.github.io/csb-ynbz7x/static/js/2.f588b675.chunk.js",
+    "static/js/2.f588b675.chunk.js.map": "https://nithya9404.github.io/csb-ynbz7x/static/js/2.f588b675.chunk.js.map",
+    "index.html": "https://nithya9404.github.io/csb-ynbz7x/index.html",
+    "static/css/main.b2ea0e04.chunk.css.map": "https://nithya9404.github.io/csb-ynbz7x/static/css/main.b2ea0e04.chunk.css.map",
+    "static/js/2.f588b675.chunk.js.LICENSE.txt": "https://nithya9404.github.io/csb-ynbz7x/static/js/2.f588b675.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edee611a.js",
+    "static/js/2.f588b675.chunk.js",
+    "static/css/main.b2ea0e04.chunk.css",
+    "static/js/main.06dc63f1.chunk.js"
+  ]
+}
